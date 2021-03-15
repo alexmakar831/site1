@@ -2,5 +2,7 @@
 
 this is test site #1 by github pages
 
-Let's try to play with this tool
+Let's *try* to play with **this** tool
+
+[link to Yandex!](http://yandex.ru)
 
